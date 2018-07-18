@@ -1,0 +1,73 @@
+.modal-body{
+  background:linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url("../../assets/img/services-bg.jpg") fixed center center;
+  background-size:cover;
+}
+
+.option{
+  text-align:center;
+}
+
+table td:nth-child(2){
+  width:123px;
+}
+
+table td:first-child{
+  width:167px;
+}
+
+div.table-responsive{
+}
+
+tr, td{
+  text-align:center;
+}
+
+.modal-header{
+  background:linear-gradient(rgba(10,10,10,0.9), rgba(40,34,34,0.9)), url("../../assets/img/hero-bg.jpg") fixed center center;
+  color:white;
+}
+
+span{
+  color:white;
+}
+
+#save:hover{
+  background:#03C4EB;
+  border:2px solid #03C4EB;
+  color:#fff;
+}
+
+#close:hover{
+  background:rgba(242,75,64,0.75);
+  color:white;
+  border:2px solid rgba(242,75,64,0.75);
+}
+
+.close{
+  color:rgb(249,248,248);
+}
+
+#save, #close{
+  background:none;
+  border:2px solid #fff;
+  color:#fff;
+}
+
+.modal-footer{
+  background:linear-gradient(rgba(10,10,10,0.9), rgba(1,1,1,0.9)), url("../../assets/img/hero-bg.jpg") fixed center center;
+}
+
+.row{
+  margin-bottom:10px;
+}
+@media (max-width:767px){
+
+.modal-inbox{
+
+text-align: center;
+}
+}
+
+.modal-inbox{
+  text-align: right;
+}

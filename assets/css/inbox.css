@@ -1,0 +1,47 @@
+.modal-body{
+  background:linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url("../../assets/img/services-bg.jpg") fixed center center;
+  background-size:cover;
+}
+.modal-header{
+  background:linear-gradient(rgba(10,10,10,0.9), rgba(40,34,34,0.9)), url("../../assets/img/hero-bg.jpg") fixed center center;
+  color:white;
+}
+
+span{
+  color:white;
+}
+
+#save:hover{
+  background:#03C4EB;
+  border:2px solid #03C4EB;
+  color:#fff;
+}
+#delete-btn:hover{
+  background:rgba(242,75,64,0.75);
+  color:#000;
+  border:2px solid rgba(242,75,64,0.75);
+}
+#close:hover{
+  background:rgba(242,75,64,0.75);
+  color:white;
+  border:2px solid rgba(242,75,64,0.75);
+}
+
+.close{
+  color:rgb(249,248,248);
+}
+
+#save, #close{
+  background:none;
+  border:2px solid #fff;
+  color:#fff;
+}
+
+.modal-footer{
+  background:linear-gradient(rgba(10,10,10,0.9), rgba(1,1,1,0.9)), url("../../assets/img/hero-bg.jpg") fixed center center;
+}
+
+.row{
+  margin-bottom:10px;
+}
+

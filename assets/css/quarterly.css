@@ -1,0 +1,58 @@
+.submit:hover{
+  background:#03C4EB;
+  border:2px solid #03C4EB;
+  color:#fff;
+}
+
+.submit{
+  background:none;
+  border:2px solid #141313;
+  color:black;
+  margin-right:10px;
+}
+
+.label-default{
+  color:black;
+  background:none;
+  float:left;
+}
+
+#dashboard{
+  padding:21px;
+}
+
+.thumbnail .profile-img-card{
+  margin:0 auto 10px;
+  display:block;
+  border-radius:50%;
+}
+
+#{
+}
+
+.register-form form#superform{
+  /*background:rgba(234,109,109,0.21);*/
+}
+
+button.btn.btn-info{
+  float:right;
+}
+
+th{
+  text-align:center;
+}
+
+.table > thead > tr > th{
+  vertical-align:middle;
+}
+
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td{
+  vertical-align:middle;
+}
+
+thead{
+  background:linear-gradient(rgba(12,13,13,0.72), rgba(14,101,101,0.18)), url(../../assets/img/wowow.jpg) fixed center center;
+  color:#ffffff;
+  background-size:cover;
+}
+

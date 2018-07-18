@@ -1,0 +1,107 @@
+.custom-form{
+  background:linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url("../../assets/img/services-bg.jpg") fixed center center;
+  background-size:cover;
+}
+body{
+  font-family: 'Times New Roman';
+}
+.modal-body{
+  background:linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url("../../assets/img/services-bg.jpg") fixed center center;
+  background-size:cover;
+}
+
+.modal-header{
+  background:linear-gradient(rgba(10,10,10,0.9), rgba(40,34,34,0.9)), url("../../assets/img/hero-bg.jpg") fixed center center;
+  color:white;
+}
+
+span{
+  /*color:white;*/
+}
+.mvalue{
+  font-size: 18px;
+}
+td{
+  text-align: left;
+}
+#save:hover{
+  background:#03C4EB;
+  border:2px solid #03C4EB;
+  color:#fff;
+}
+
+#close:hover{
+  background:rgba(242,75,64,0.75);
+  color:white;
+  border:2px solid rgba(242,75,64,0.75);
+}
+
+.close{
+  color:rgb(249,248,248);
+}
+
+#save, #close{
+  background:none;
+  border:2px solid #fff;
+  color:#fff;
+}
+
+.modal-footer{
+  background:linear-gradient(rgba(10,10,10,0.9), rgba(1,1,1,0.9)), url("../../assets/img/hero-bg.jpg") fixed center center;
+}
+
+#market{
+  background:rgba(135,187,210,0.25);
+}
+
+.Agri{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-variant: 2px;
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 17px;
+}
+li{
+  /*list-style: none;*/
+}
+
+.col-md-8 {
+    width: 95.667%;
+}
+
+.list-inline > li {
+    display: inline-block;
+    padding-right: 8px;
+    padding-left: 7px;
+    margin-top: 25px;
+    font-size: 18px;
+    border-bottom: 1px solid black;
+}
+/*
+
+
+
+.post-tag:hover {
+    color: #33658a;
+    background-color: #02141733;
+    border-color: rgba(0,0,0,0);
+    font-size: 15px;
+}
+
+.post-tag, .moderator-tag, .required-tag, .disliked-tag, .favorite-tag, .company-tag, .geo-tag, .geo-tag, .container .chosen-choices .search-choice, .container .chosen-container-multi .chosen-choices li.search-choice {
+    position: relative;
+    display: inline-block;
+    padding: .4em .5em;
+    margin: 2px 2px 2px 0;
+    font-size: 11px;
+    line-height: 1;
+    white-space: nowrap;
+    text-decoration: none;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 0;
+    transition: all .15s ease-in-out;
+}
+*/

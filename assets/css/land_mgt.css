@@ -1,0 +1,141 @@
+.custom-form{
+  background:linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url('../../assets/img/services-bg.jpg')fixed center center;
+  background-size:cover;
+}
+table.dataTable th.sorting_desc{
+  background-image: url("../../assets/img/sort_desc.png");
+}
+table.dataTable th.sorting_asc{
+  background-image: url("../../assets/img/sort_asc.png");
+}
+
+.submit:hover{
+  background:#03C4EB;
+  border:2px solid #03C4EB;
+  color:#fff;
+}
+
+.submit{
+  background:none;
+  border:2px solid #141313;
+  color:black;
+  margin-right:10px;
+}
+.table-responsive .btn{
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+.btn{
+ background:none;
+  border:2px solid #141313;
+  color:black;
+  margin-right:10px; 
+  font-size: 16px;
+  margin-top: 40px;
+}
+.modal .btn{
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+table .btn{
+  margin-top: 0;
+}
+.btn:hover{
+  background:#03C4EB;
+  border:2px solid #03C4EB;
+  color:#fff;
+}
+div.filter{
+  border: 1px solid black;
+  padding: 10px;
+  box-shadow: 4px 8px #000;
+}
+th{
+  text-align:center;
+}
+
+tr{
+}
+td:first-child{
+  text-align: left;
+}
+td{
+  text-align:center;
+}
+
+#check{
+  width:20px;
+}
+
+.taxable{
+  font-size:16px;
+}
+
+.table-responsive{
+  border:2px solid #141313;
+}
+table{
+ /*//center table all data*/
+}
+table#search_results td a:hover{
+  color: blue;
+}
+
+.gwapoak{
+  font-size: 17px;
+}
+
+th, td{
+  font-size: 16px;
+}
+
+th{
+  background:linear-gradient(rgba(10,10,10,0.9), rgba(40,34,34,0.9)), url("../../assets/img/hero-bg.jpg") fixed center center !important;
+  color:white;
+  border-top: 1px solid black !important;
+}
+.table-responsive{
+  border-bottom: 10px solid black;
+}
+.dataTables_length, .dataTables_filter{
+  margin: 10px;
+}
+
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover{
+  background:linear-gradient(rgba(10,10,10,0.9), rgba(40,34,34,0.9)), url("../../assets/img/hero-bg.jpg") fixed center center;
+  color:#03C4EB;
+  box-shadow: 0px 4px #000009;
+}
+
+.nav-tabs > li.sad{
+  border:2px solid black;
+}
+
+.aw{
+  margin-right: 3px;
+  border:2px solid black;
+} 
+
+
+.btn-modal{
+  border:2px solid white;
+}
+#badge{
+  background-color: red;
+  font-size: 16px;
+  line-height: 16px;
+  width: 10px;
+}
+.dataTables_filter input{
+  border-radius: 5px;
+}
+.dataTables_length select{
+  border-radius: 5px;
+}
+.modal-footer .btn{
+  margin-top: 5px;
+}
+.modal-footer .btn span{
+  color: white;
+}

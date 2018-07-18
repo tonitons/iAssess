@@ -1,0 +1,32 @@
+body{
+    border: none;
+}
+nav, .nav, footer, #redeem_view, #redeem_form, #trans_table, .btn-print, img, input, select, button{
+    display: none;
+    visibility: hidden;
+}
+body, header, main, footer{
+      border: none;
+}
+
+#redeem_receipt{
+    display: block;
+    visibility: visible;
+}
+*{
+    font-size: 10px;
+}
+table, h2, h1{
+	margin-top: 0;
+	position: 0;
+	vertical-align: top;
+}
+.sad, .btn{
+	display: none;
+}
+table, table td, table th{
+	padding: 0;
+	margin:0;
+}
+
+
